@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://public-vision.pages.dev/sitemap.xml
