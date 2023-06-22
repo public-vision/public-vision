@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>الرأي العام</title>
-    <link href="https://public-vision.pages.dev/feed.xml" rel="self" />
-    <link href="https://public-vision.pages.dev" />
+    <link href="https://public-vision.github.io/feed.xml" rel="self" />
+    <link href="https://public-vision.github.io" />
     <updated>2023-06-19T04:07:03-07:00</updated>
     <author>
         <name>فريق التحرير</name>
     </author>
-    <id>https://public-vision.pages.dev</id>
+    <id>https://public-vision.github.io</id>
 
     <entry>
         <title>ما هي فروع القانون العام</title>
         <author>
             <name>فريق التحرير</name>
         </author>
-        <link href="https://public-vision.pages.dev/branches-of-public-law.html"/>
-        <id>https://public-vision.pages.dev/branches-of-public-law.html</id>
-        <media:content url="https://public-vision.pages.dev/media/posts/1/m-hy-frwaa-lqnwn-laam.jpg" medium="image" />
+        <link href="https://public-vision.github.io/branches-of-public-law.html"/>
+        <id>https://public-vision.github.io/branches-of-public-law.html</id>
+        <media:content url="https://public-vision.github.io/media/posts/1/m-hy-frwaa-lqnwn-laam.jpg" medium="image" />
 
         <updated>2023-06-19T04:07:03-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://public-vision.pages.dev/media/posts/1/m-hy-frwaa-lqnwn-laam.jpg" alt="" />
+                        <img src="https://public-vision.github.io/media/posts/1/m-hy-frwaa-lqnwn-laam.jpg" alt="" />
                     القانون العام هو الفرع الرئيسي للقانون الذي يتعامل مع القواعد والقوانين التي تنظم وتحدد الحقوق والواجبات والمسؤوليات بين الأفراد والدولة. يشمل القانون العام مجموعة واسعة من الفروع والتخصصات التي تتعامل مع مختلف جوانب الحياة اليومية والشؤون العامة. في هذا المقال ، سنتحدث عن بعض فروع&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://public-vision.pages.dev/media/posts/1/m-hy-frwaa-lqnwn-laam.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://public-vision.github.io/media/posts/1/m-hy-frwaa-lqnwn-laam.jpg" class="type:primaryImage" alt="" /></p>
                 <p>القانون العام هو الفرع الرئيسي للقانون الذي يتعامل مع القواعد والقوانين التي تنظم وتحدد الحقوق والواجبات والمسؤوليات بين الأفراد والدولة. يشمل القانون العام مجموعة واسعة من الفروع والتخصصات التي تتعامل مع مختلف جوانب الحياة اليومية والشؤون العامة. في هذا المقال ، سنتحدث عن بعض فروع القانون العام الرئيسية.</p>
 <h2>القانون الدستوري</h2>
 <p>يتعامل القانون الدستوري مع الدستور والمبادئ الأساسية التي يتم تحديدها فيه. يحدد الدستور النظام السياسي والحكومي والحقوق والحريات الأساسية للمواطنين. يتم تحديد القوانين التي تنظم السلطات التشريعية والتنفيذية والقضائية في الدولة.</p>
