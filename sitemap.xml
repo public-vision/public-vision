@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://public-vision.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://public-vision.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://public-vision.pages.dev/</loc>
+<loc>https://public-vision.github.io/</loc>
 </url>
 <url>
-<loc>https://public-vision.pages.dev/branches-of-public-law.html</loc>
-<lastmod>2023-06-19T13:07:03+02:00</lastmod>
+<loc>https://public-vision.github.io/branches-of-public-law/</loc>
+<lastmod>٢٠٢٣-٠٦-١٩T١٣:٠٧:٠٣+٠٢:٠٠</lastmod>
 <image:image>
-<image:loc>https://public-vision.pages.dev/media\posts\1/m-hy-frwaa-lqnwn-laam.jpg</image:loc>
+<image:loc>https://public-vision.github.io/media\posts\1/m-hy-frwaa-lqnwn-laam.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://public-vision.github.io/documenting-and-dating-law-books/</loc>
+<lastmod>٢٠٢٣-١٠-٠٣T١٠:٥٠:٤٣+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://public-vision.github.io/media\posts\3/hmy-twthyq-wtrykh-ktb-lqnwn.jpg</image:loc>
+<image:title><![CDATA[أهمية توثيق وتاريخ كتب القانون]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://public-vision.github.io/legal-challenges-in-fintech/</loc>
+<lastmod>٢٠٢٣-١٠-٠٣T٠٩:٣٣:٥٧+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://public-vision.github.io/media\posts\2/ltHdyt-lqnwny-fy-mjl-ltknwlwjy-lmly.jpg</image:loc>
+<image:title><![CDATA[التحديات القانونية في مجال التكنولوجيا المالية]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://public-vision.github.io/understanding-law-books/</loc>
+<lastmod>٢٠٢٣-١٠-٠٣T١٠:٥٦:٤٥+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://public-vision.github.io/media\posts\4/hmy-lqr-wldrs-fy-fhm-ktb-lqnwn.jpg</image:loc>
+<image:title><![CDATA[أهمية القراءة والدراسة في فهم كتب القانون]]></image:title>
 </image:image>
 </url>
 </urlset>
